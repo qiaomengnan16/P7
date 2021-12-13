@@ -145,9 +145,14 @@ https://juejin.cn/post/7038879332642586632
 
 redis的geo是什么
 
+阿布：https://juejin.cn/post/7040715590624870407
+
 # 2021-12-16问题
 
 redis的scan命令
+
+阿布：https://juejin.cn/post/7041186283888050190/
+
 
 
 # 2021-12-18问题
