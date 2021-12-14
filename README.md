@@ -149,6 +149,8 @@ redis的geo是什么
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15685422.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/121937861
+
 # 2021-12-16问题
 
 redis的scan命令
