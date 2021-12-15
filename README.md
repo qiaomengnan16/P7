@@ -163,6 +163,9 @@ redis的scan命令
 
 redis的线程IO模型
 
+阿布：https://juejin.cn/post/7041571386384449573
+
+
 # 2021-12-19问题
 
 redis的通信协议
