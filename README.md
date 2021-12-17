@@ -173,7 +173,7 @@ redis的线程IO模型
 # 2021-12-19问题
 
 redis的通信协议
-
+长江：https://www.cnblogs.com/bruceChan0018/p/15704095.html
 
 
 
