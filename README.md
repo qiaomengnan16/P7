@@ -195,6 +195,8 @@ redis的通信协议
 
 redis的持久化机制
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15706308.html
+
 # 2021-12-22问题
 
 redis的管道
