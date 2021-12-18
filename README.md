@@ -169,6 +169,8 @@ redis的线程IO模型
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15700080.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/121982877
+
 
 # 2021-12-19问题
 
