@@ -179,6 +179,8 @@ redis的线程IO模型
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15700080.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122012050
+
 # 2021-12-19问题
 
 redis的通信协议
@@ -186,6 +188,8 @@ redis的通信协议
 长江：https://www.cnblogs.com/bruceChan0018/p/15704095.html
 
 阿布：https://juejin.cn/post/7042896005875892255/
+
+秀强：
 
 # 2021-12-21问题
 
