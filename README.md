@@ -161,6 +161,8 @@ redis的scan命令
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15695705.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/121982877
+
 # 2021-12-18问题
 
 redis的线程IO模型
@@ -168,9 +170,6 @@ redis的线程IO模型
 阿布：https://juejin.cn/post/7041571386384449573
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15700080.html
-
-秀强：https://blog.csdn.net/AlphaBr/article/details/121982877
-
 
 # 2021-12-19问题
 
