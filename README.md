@@ -195,6 +195,8 @@ redis的通信协议
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122030718
 
+田帅：https://juejin.cn/post/7043727152918822942
+
 # 2021-12-21问题
 
 redis的持久化机制
