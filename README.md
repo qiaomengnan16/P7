@@ -213,7 +213,7 @@ redis的管道
 
 redis的事务
 
-长江：
+长江：https://www.cnblogs.com/bruceChan0018/p/15712979.html
 
 阿布：
 
