@@ -203,6 +203,8 @@ redis的持久化机制
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15706308.html
 
+阿布：https://juejin.cn/post/7043812826657325093
+
 # 2021-12-22问题
 
 redis的管道
