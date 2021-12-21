@@ -225,7 +225,7 @@ redis的事务
 
 PubSub
 
-长江：
+长江：https://www.cnblogs.com/bruceChan0018/p/15717448.html
 
 阿布：
 
