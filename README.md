@@ -210,6 +210,7 @@ redis的持久化机制
 redis的管道
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15708442.html
+
 阿布：https://juejin.cn/post/7044185334682222606/
 
 # 2021-12-24问题
@@ -236,7 +237,7 @@ PubSub
 
 小对象压缩
 
-长江：
+长江：https://www.cnblogs.com/bruceChan0018/p/15721085.html
 
 阿布：
 
