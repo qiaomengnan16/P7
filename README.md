@@ -218,7 +218,7 @@ redis的事务
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15712979.html
 
-阿布：
+阿布：https://juejin.cn/post/7044449697200603166
 
 秀强：
 
