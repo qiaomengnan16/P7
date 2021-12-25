@@ -207,6 +207,8 @@ redis的持久化机制
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122049748
 
+田帅：https://juejin.cn/post/7044146513781473317
+
 # 2021-12-22问题
 
 redis的管道
@@ -217,6 +219,8 @@ redis的管道
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122094945
 
+田帅：https://juejin.cn/post/7044705547936858120
+
 # 2021-12-24问题
 
 redis的事务
@@ -226,6 +230,8 @@ redis的事务
 阿布：https://juejin.cn/post/7044449697200603166
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122142018
+
+田帅：https://juejin.cn/post/7045624890191249438
 
 # 2021-12-25问题
 
@@ -246,6 +252,8 @@ PubSub
 阿布：https://juejin.cn/post/7044536637774266382/
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122144742
+
+田帅：https://juejin.cn/post/7045574511248277517
 
 
 # 2021-12-27问题
