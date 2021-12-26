@@ -119,6 +119,8 @@ https://juejin.cn/post/7038879332642586632
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/121885918
 
+飞鸿：https://juejin.cn/post/7040770387944144903
+
 # 2021-12-10 问题
 
 如何使用 redis 做限流
@@ -156,6 +158,8 @@ redis 的 geo 是什么
 秀强：https://blog.csdn.net/AlphaBr/article/details/121937861
 
 田帅：https://juejin.cn/post/7041378978724053023
+
+飞鸿：https://juejin.cn/post/7046026902997303333
 
 # 2021-12-16 问题
 
