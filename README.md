@@ -259,6 +259,8 @@ PubSub
 
 阿布：https://juejin.cn/post/7045491362514337828
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15743076.html
+
 # 2021-12-29 问题
 
 ## Sentinel
