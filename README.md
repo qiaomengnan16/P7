@@ -299,6 +299,8 @@ PubSub
 
 ## 懒惰删除 与 Jedis 重试
 
+阿布 https://developer.aliyun.com/article/846247?spm=a2c6h.13262185.0.0.165c3e54D6VmSE
+
 # 2022-1-10 问题
 
 ## redis 的安全性
