@@ -261,9 +261,13 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15743076.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122179705
+
 # 2021-12-29 问题
 
 ## Sentinel
+
+秀强：https://blog.csdn.net/AlphaBr/article/details/122226538
 
 # 2021-12-31 问题
 
@@ -272,6 +276,8 @@ PubSub
 # 2022-1-1 问题
 
 ## Cluster
+
+秀强：
 
 # 2022-1-2 问题
 
