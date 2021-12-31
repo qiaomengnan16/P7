@@ -275,6 +275,8 @@ PubSub
 
 ## Codis
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15754619.html
+
 # 2022-1-1 问题
 
 ## Cluster
