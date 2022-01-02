@@ -281,7 +281,7 @@ PubSub
 
 ## Cluster
 
-秀强：
+秀强：https://blog.csdn.net/AlphaBr/article/details/122245590
 
 # 2022-1-2 问题
 
@@ -296,6 +296,8 @@ PubSub
 ## 过期策略
 
 阿布：https://developer.aliyun.com/article/845557
+
+秀强：https://blog.csdn.net/AlphaBr/article/details/122275475
 
 # 2022-1-7 问题
 
