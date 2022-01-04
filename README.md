@@ -137,7 +137,7 @@ https://juejin.cn/post/7038879332642586632
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/121887161
 
-飞鸿：https://juejin.cn/post/7040770387944144903
+飞鸿：https://juejin.cn/post/7047422442356080647
 
 # 2021-12-12 周会
 
@@ -161,6 +161,8 @@ redis 的 geo 是什么
 
 田帅：https://juejin.cn/post/7041378978724053023
 
+飞鸿：https://juejin.cn/post/7046026902997303333
+
 # 2021-12-16 问题
 
 redis 的 scan 命令
@@ -172,6 +174,8 @@ redis 的 scan 命令
 秀强：https://blog.csdn.net/AlphaBr/article/details/121982877
 
 田帅：https://juejin.cn/post/7041917032043905061
+
+飞鸿：https://juejin.cn/post/7046286080009568270
 
 # 2021-12-18 问题
 
@@ -185,6 +189,8 @@ redis 的线程 IO 模型
 
 田帅: https://juejin.cn/post/7042942516978516004
 
+飞鸿：https://juejin.cn/post/7048943206817333256
+
 # 2021-12-19 问题
 
 redis 的通信协议
@@ -197,6 +203,8 @@ redis 的通信协议
 
 田帅：https://juejin.cn/post/7043727152918822942
 
+飞鸿：https://juejin.cn/post/7048955613551788063
+
 # 2021-12-21 问题
 
 redis 的持久化机制
@@ -208,6 +216,8 @@ redis 的持久化机制
 秀强：https://blog.csdn.net/AlphaBr/article/details/122049748
 
 田帅：https://juejin.cn/post/7044146513781473317
+
+飞鸿：https://juejin.cn/post/7048981663203721246
 
 # 2021-12-22 问题
 
