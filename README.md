@@ -119,6 +119,8 @@ https://juejin.cn/post/7038879332642586632
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/121885918
 
+飞鸿：https://juejin.cn/post/7040770387944144903
+
 # 2021-12-10 问题
 
 如何使用 redis 做限流
@@ -134,6 +136,8 @@ https://juejin.cn/post/7038879332642586632
 田帅：https://juejin.cn/post/7040631021343080478
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/121887161
+
+飞鸿：https://juejin.cn/post/7040770387944144903
 
 # 2021-12-12 周会
 
