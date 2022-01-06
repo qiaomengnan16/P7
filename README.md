@@ -333,6 +333,8 @@ PubSub
 
 阿布 https://developer.aliyun.com/article/846108
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15772658.html
+
 
 # 2022-1-8 问题
 
