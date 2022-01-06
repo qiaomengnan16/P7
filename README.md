@@ -342,6 +342,8 @@ PubSub
 
 阿布 https://developer.aliyun.com/article/846247?spm=a2c6h.13262185.0.0.165c3e54D6VmSE
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15772969.html
+
 # 2022-1-10 问题
 
 ## redis 的安全性
