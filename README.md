@@ -344,6 +344,8 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15772969.html
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15773205.html
+
 # 2022-1-10 问题
 
 ## redis 的安全性
