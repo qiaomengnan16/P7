@@ -351,11 +351,14 @@ PubSub
 长江：https://www.cnblogs.com/bruceChan0018/p/15773205.html
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122354607?spm=1001.2014.3001.5501
+
 # 2022-1-10 问题
 
 ## redis 的安全性
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122379192?spm=1001.2014.3001.5501
+
+阿布：https://developer.aliyun.com/article/852005
 
 # 2022-1-12 问题
 
