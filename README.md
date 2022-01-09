@@ -335,6 +335,8 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15772658.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122313625?spm=1001.2014.3001.5501
+
 
 # 2022-1-8 问题
 
@@ -348,13 +350,18 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15773205.html
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122354607?spm=1001.2014.3001.5501
 # 2022-1-10 问题
 
 ## redis 的安全性
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122379192?spm=1001.2014.3001.5501
+
 # 2022-1-12 问题
 
 ## 字符串的原理
+
+秀强：https://blog.csdn.net/AlphaBr/article/details/122382017?spm=1001.2014.3001.5501
 
 # 2022-1-14 问题
 
