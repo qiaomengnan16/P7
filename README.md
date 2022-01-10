@@ -231,6 +231,8 @@ redis 的管道
 
 田帅：https://juejin.cn/post/7044705547936858120
 
+飞鸿：https://juejin.cn/post/7049187802038140958
+
 # 2021-12-24 问题
 
 redis 的事务
@@ -243,6 +245,8 @@ redis 的事务
 
 田帅：https://juejin.cn/post/7045624890191249438
 
+飞鸿：https://juejin.cn/post/7049248733766090759
+
 # 2021-12-25 问题
 
 PubSub
@@ -252,6 +256,8 @@ PubSub
 阿布：https://juejin.cn/post/7044087713846263822/
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/122143082
+
+飞鸿：https://juejin.cn/post/7049265777538498574
 
 # 2021-12-26 问题
 
@@ -266,6 +272,8 @@ PubSub
 田帅：https://juejin.cn/post/7045574511248277517
 
 习习: https://gitee.com/JaychenFE/obsidian-home/blob/master/%E4%B8%AD%E9%97%B4%E4%BB%B6/redis/%E9%92%B1%E6%96%87%E5%93%81redis/20211226%E5%B0%8F%E5%AF%B9%E8%B1%A1%E5%8E%8B%E7%BC%A9.md
+
+飞鸿：https://juejin.cn/user/1750880461288775
 
 # 2021-12-27 问题
 
