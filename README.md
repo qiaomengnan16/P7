@@ -368,6 +368,8 @@ PubSub
 
 阿布：https://developer.aliyun.com/article/852005
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15786352.html
+
 # 2022-1-12 问题
 
 ## 字符串的原理
