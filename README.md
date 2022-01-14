@@ -382,6 +382,8 @@ PubSub
 
 ## 字典原理
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15803044.html
+
 # 2022-1-15 问题
 
 ## 压缩、快速列表原理
