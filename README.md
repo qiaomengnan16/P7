@@ -388,6 +388,8 @@ PubSub
 
 ## 压缩、快速列表原理
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15806694.html
+
 # 2022-1-16 问题
 
 ## 跳跃列表原理
