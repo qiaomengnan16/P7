@@ -377,12 +377,14 @@ PubSub
 秀强：https://blog.csdn.net/AlphaBr/article/details/122382017?spm=1001.2014.3001.5501
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15800019.html
+阿布：https://developer.aliyun.com/article/852670?spm=a2c6h.24874632.0.0.173913a24KUMii
 
 # 2022-1-14 问题
 
 ## 字典原理
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15803044.html
+阿布：https://developer.aliyun.com/article/853400?spm=a2c6h.24874632.0.0.173913a24KUMii
 
 # 2022-1-15 问题
 
@@ -391,6 +393,7 @@ PubSub
 长江：https://www.cnblogs.com/bruceChan0018/p/15806694.html
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15807898.html
+阿布：https://developer.aliyun.com/article/857157
 
 # 2022-1-16 问题
 
