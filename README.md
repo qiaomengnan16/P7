@@ -394,6 +394,8 @@ PubSub
 
 阿布：https://developer.aliyun.com/article/853400?spm=a2c6h.24874632.0.0.173913a24KUMii
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122442966?spm=1001.2014.3001.5501
+
 # 2022-1-15 问题
 
 ## 压缩、快速列表原理
@@ -403,6 +405,10 @@ PubSub
 长江：https://www.cnblogs.com/bruceChan0018/p/15807898.html
 
 阿布：https://developer.aliyun.com/article/857157
+
+秀强： https://blog.csdn.net/AlphaBr/article/details/122526055
+
+秀强： https://blog.csdn.net/AlphaBr/article/details/122527623
 
 # 2022-1-16 问题
 
