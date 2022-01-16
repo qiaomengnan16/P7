@@ -418,6 +418,8 @@ PubSub
 
 阿布：https://juejin.cn/post/7053824387233316894/
 
+秀强：https://blog.csdn.net/AlphaBr/article/details/122531468
+
 # 2022-1-18 问题
 
 ## 紧凑列表、rax 原理
