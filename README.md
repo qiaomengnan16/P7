@@ -396,6 +396,8 @@ PubSub
 
 ## 跳跃列表原理
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15811350.html
+
 # 2022-1-18 问题
 
 ## 紧凑列表、rax 原理
