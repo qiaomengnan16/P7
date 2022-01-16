@@ -293,6 +293,8 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15754288.html
 
+阿布：https://juejin.cn/post/7049573387647057950
+
 # 2021-12-31 问题
 
 ## Codis
