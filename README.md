@@ -416,6 +416,8 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15811350.html
 
+阿布：https://juejin.cn/post/7053824387233316894/
+
 # 2022-1-18 问题
 
 ## 紧凑列表、rax 原理
