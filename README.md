@@ -424,6 +424,8 @@ PubSub
 
 ## 紧凑列表、rax 原理
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15815558.html
+
 # 2022-1-20 问题
 
 ## LFU 与 LRU
