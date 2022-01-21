@@ -434,6 +434,8 @@ PubSub
 
 ## LFU 与 LRU
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15832131.html
+
 # 2022-1-22 问题
 
 ## 懒惰删除
