@@ -438,6 +438,8 @@ PubSub
 
 ## 懒惰删除
 
+阿布：https://blog.csdn.net/cainiao1412/article/details/122625800
+
 # 2022-1-24 问题
 
 ## 字典遍历原理
