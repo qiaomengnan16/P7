@@ -436,6 +436,8 @@ PubSub
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15832131.html
 
+阿布：https://juejin.cn/post/7055976906939695135/
+
 # 2022-1-22 问题
 
 ## 懒惰删除
