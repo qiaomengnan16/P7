@@ -32,7 +32,7 @@ Redis 如何实现一个消息队列
 
 阿布：https://juejin.cn/post/7037738797211058190/
 
-长江：https://www.cnblogs.com/bruceChan0018/p/15642207.html
+长江：https://www.cnblogs.com/bruceChan0018/p/15841125.html
 
 飞鸿踏雪：https://juejin.cn/post/7037467615224135687/
 
@@ -457,4 +457,6 @@ PubSub
 ## 字典遍历原理
 
 阿布：https://juejin.cn/post/7055606620872507428/
+
+长江：https://www.cnblogs.com/bruceChan0018/p/15841125.html
 
