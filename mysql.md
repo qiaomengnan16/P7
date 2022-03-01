@@ -20,8 +20,14 @@
 
 长江：https://www.cnblogs.com/bruceChan0018/p/15921506.html
 
+长江：https://www.cnblogs.com/bruceChan0018/p/15948577.html
+
 # 2022-02-21---2022-02-27 任务
 
 第五章、第六章看完总结博客或脑图
 
 秀强：https://blog.csdn.net/AlphaBr/article/details/123156555
+
+# 2022-02-28----2022-03-06 任务
+
+第七章、第八章看完总结博客或脑图
